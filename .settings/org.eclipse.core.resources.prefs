@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/home/index.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/introduce/introduce.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/news/news.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/product/bedroom.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/product/detail.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/product/guest-room.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/product/kitchen-room.jsp=UTF-8
+encoding//i18n-res/global_vi.properties=UTF-8
+encoding//src/poly/interceptor/SecurityInterceptor.java=UTF-8
+encoding//src/ptithcm/controller/UserController.java=UTF-8

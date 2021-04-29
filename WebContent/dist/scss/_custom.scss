@@ -1,0 +1,38 @@
+/* //========================== */
+/* //==== THUOC TINH CHUNG ==== */
+.flex {
+  display: flex;
+}
+.d-block {
+  display: block;
+}
+.j-between {
+  justify-content: space-between;
+}
+.j-end {
+  justify-content: flex-end;
+}
+.j-start {
+  justify-content: flex-start;
+}
+.j-around {
+  justify-content: space-around;
+}
+.j-center {
+  justify-content: center;
+}
+.a-center {
+  align-items: center;
+}
+.a-stretch {
+  align-items: stretch;
+}
+.a-start {
+  align-items: flex-start;
+}
+.a-end {
+  align-items: flex-end;
+}
+.a-baseline {
+  align-items: baseline;
+}
